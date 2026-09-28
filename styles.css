@@ -2,16 +2,28 @@ html {
     background-color: rgb(210, 179, 138);
 }
 
-body{margin: 0px}
+body{margin: 30px}
 
 
 .site-header {
     background-color:rgb(26, 64, 44); 
     padding: 30px; 
     color: antiquewhite;
+    margin-bottom: 20px;
 
 }
 
 .page-name{
-    margin: 0px
+    margin-bottom: 30px;
 }
+.nav-links {color: antiquewhite;}
+
+
+
+.main-content { background-color: aqua;
+padding: 10px;
+    margin-bottom: 10px; }
+
+.site-footer { 
+    background-color: azure ;
+    padding: 20px;}
