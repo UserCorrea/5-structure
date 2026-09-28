@@ -1,12 +1,12 @@
 html {
-    background-color: rgb(210, 179, 138);
+    background-color: rgb(255, 226, 187);
 }
 
 body{margin: 30px}
 
 
 .site-header {
-    background-color:rgb(26, 64, 44); 
+    background-color:rgb(30, 121, 73); 
     padding: 30px; 
     color: antiquewhite;
     margin-bottom: 20px;
@@ -16,14 +16,19 @@ body{margin: 30px}
 .page-name{
     margin-bottom: 30px;
 }
-.nav-links {color: antiquewhite;}
+.nav-links {color:antiquewhite
+}
 
 
 
-.main-content { background-color: aqua;
-padding: 10px;
-    margin-bottom: 10px; }
+.main-content { background-color:darkslateblue;
+    color:antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px; 
+}
 
 .site-footer { 
-    background-color: azure ;
-    padding: 20px;}
+    color:antiquewhite
+    background-color: rgb(0, 91, 91) ;
+    padding: 20px;
+}
