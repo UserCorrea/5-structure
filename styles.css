@@ -1,0 +1,17 @@
+html {
+    background-color: rgb(210, 179, 138);
+}
+
+body{margin: 0px}
+
+
+.site-header {
+    background-color:rgb(26, 64, 44); 
+    padding: 30px; 
+    color: antiquewhite;
+
+}
+
+.page-name{
+    margin: 0px
+}
