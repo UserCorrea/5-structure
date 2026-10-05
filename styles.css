@@ -16,10 +16,15 @@ body{margin: 30px}
 .page-name{
     margin-bottom: 10px;
 }
+
 .nav-links {color:antiquewhite
 }
 
+.nav-links:hover { color:blue; background-color: aliceblue;} 
 
+/* .nav-links:focus {color: aliceblue;background-color: black; font-size: larger;} */
+
+.nav-links:active { background-color: aquamarine;}
 
 .main-content { background-color:rgb(30, 57, 136);
     color:antiquewhite;
